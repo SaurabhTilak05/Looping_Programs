@@ -1,13 +1,12 @@
 /*
-	 Fibonacci Series
+	Fibonacci Series
 	Description: Write a program to print the first n Fibonacci numbers.
 	Input: n = 5
 	Output: 0 1 1 2 3
 */
 import java.util.*;
 public class FibonacciSeries
-{
-	public static void main(String x[])
+{       public static void main(String x[])
 	{
 		Scanner s=new Scanner(System.in);
 		System.out.println("Enter Limit of Fibonacci ");
